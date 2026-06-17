@@ -1,6 +1,6 @@
 # 📊 Executive Overview Dashboard – Power BI
 
-![Executive Overview Dashboard](executive_dashboard.png)
+![Executive Overview Dashboard](img/EXECUTIVE OVERVIEW DASHBOARD.png)
 
 ## 📌 Project Overview
 The **Executive Overview Dashboard** is an interactive Power BI dashboard designed to provide key business insights for decision-makers. It enables executives and stakeholders to monitor sales performance, profitability, customer growth, and regional performance through visually rich and dynamic reports.
